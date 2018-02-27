@@ -2,8 +2,11 @@ var DETAIL_IMAGE_SELECTOR = "[data-image-role=\"target\"]";
 var DETAIL_TITLE_SELECTOR = "[data-image-role=\"title\"]";
 var THUMBNAIL_LINK_SELECTOR = "[data-image-role=\"trigger\"]";
 <<<<<<< HEAD
+<<<<<<< HEAD
 var NEXT_BUTTON_SELECTOR = "[data-button-role=\"gonext\"]";
 var PREV_BUTTON_SELECTOR = "[data-button-role=\"goprev\"]";
+=======
+>>>>>>> 1fb214779473d822406ab203d5eeae116ddc7f4a
 =======
 >>>>>>> 1fb214779473d822406ab203d5eeae116ddc7f4a
 
